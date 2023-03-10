@@ -1,0 +1,11 @@
+Model Information:
+* title:	FREE - Fantasy Town
+* source:	https://sketchfab.com/3d-models/free-fantasy-town-51cb2eaae4bd4501b4ea61c9fbcdbf3b
+* author:	arturhorn (https://sketchfab.com/arturhorn)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FREE - Fantasy Town" (https://sketchfab.com/3d-models/free-fantasy-town-51cb2eaae4bd4501b4ea61c9fbcdbf3b) by arturhorn (https://sketchfab.com/arturhorn) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
